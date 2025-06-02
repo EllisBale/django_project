@@ -4,9 +4,13 @@
 
 ### Creating a project
 
-In the terminal to start a project type "django-admin startproject project_name directory_name".
+In the terminal to start a project type:
 
-django-admin startproject my_project .
+`django-admin startproject project_name directory_name`
+
+or
+
+`django-admin startproject my_project .`
 
 
 #### Project completes
